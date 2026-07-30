@@ -38,7 +38,7 @@ const founders = [
   },
 
   {
-    name: "Saurabh Rajawat",
+    name: "Saurabh Singh Rajawat",
     designation: "Director",
     company: "Yes Bank Ltd",
     image: director2,
